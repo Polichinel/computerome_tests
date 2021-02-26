@@ -1,5 +1,6 @@
+import numpy as np
 
-x = 3
+x = np.arange(0,10,1)
 y = x**2
 
 print(y)
